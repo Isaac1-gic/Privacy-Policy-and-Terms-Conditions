@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy and Terms & Conditions</title>
+    <style>
+        /* Base styles for scroll-free, full-viewport fit */
+        body {
+            margin: 10px;
+            padding: 10px;
+            font-family: 'Roboto', sans-serif;
+            background-color: #f1f1f1; /* Main light gray background */
+        }
+
+        /* The main container now behaves as the full screen */
+        .login-container {
+            width: 98%;
+            height: 100%;/* Optional: Keep content centered on very large screens */
+            margin: 20px;
+            background-color: #f1f1f1;
+        }
+        
+
+
+
+        
+
+        header {
+            background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+            border: 1px solid #3c3c3e;
+			border-radius: 28px;
+			box-shadow: 0 12px 28px rgba(0,0,0,0.45), 0 3px 6px rgba(0,0,0,0.25);
+            text-align: center;
+            color: rgb(29, 207, 23);
+            font-size: 1.7em;
+            font-weight: 400; 
+            
+            margin: 0;
+            letter-spacing: 2px;
+        }
+
+        dt {
+            color: #bd8621e5;
+            font-size: 1.1em;
+            font-weight: 300;
+            margin-top: 5px;
+            letter-spacing: 1px;
+        }
+
+        
+
+    </style>
+</head>
+<body>
+
+<div>
+    <div>
+
+        <header class="header"><h1>1) Privacy Policy</h1></header>
+        <div class="login-container">
+            <br>
+            <p>Last updated: December 1, 2025</p>
+            <p>App name: MSCE G Studies Tracker</p>
+            <p>Owner / Data Controller: Isaac Chitsakamire</p>
+            <p>Contact: isaacchitsakamire@gmail.com</p>
+            <br>
+        </div>
+
+        <div class="login-container">
+            <br>
+            <dt>1. Introduction</dt>
+            <dd>
+                <p>MSCE G Studies Tracker the App helps MSCE students manage syllabus pacing, keep study history, and improve understanding and MSCE performance. This Privacy Policy explains what personal and non-personal information we collect, why, how we use it, who we share it with, and your rights.</p>
+                <p>By using MSCE G Studies Tracker you consent to the collection and use of information described here. If you are under 18, a parent or guardian must read and consent via the Parental Consent step.</p>
+            </dd>
+             
+            
+            <dt>2. Data we collect</dt>
+            <dd>
+                <p>We collect the following categories of data:</p>
+                 
+                <p>Account & contact information</p>
+                <p>Required: username, password, email address (used for login and sending emails), phone number (used only for payment processing).</p>
+                <p>One account per user: only 1 user may use 1 account — sharing credentials is prohibited.</p>
+                 
+                <p>Study & usage data</p>
+                <p>Subjects, topics, planned pace, session start/end times, time spent per session, understanding ratings, quiz answers, progress percentages, reminder , and other activity logs you enter into the app.</p>
+                 
+                <p>Payment & billing</p>
+                <p>Currently we use Airtel money and TNM Mpamba for payments. 
+                    > You send money to developer using these number: +265897953648/+265980617390.
+                    > Copy Transaction Message and paste on G Tracker App then only Message ID will be taken for payment processing.</p>
+                 
+                <p>Device & technical data</p>
+                <p>Device type, operating system, browser, service worker events, and error logs to help with the PWA operation and debugging.</p>
+                 
+                <p>Cookies & local storage</p>
+                <p>Data stored locally (IndexedDB and localStorage) on the device for offline operation (see Offline & Cookies Notice below).</p>
+            </dd>
+             
+
+            <dt>3. How we use your data</dt>
+            <dd>
+                <p>We use the data for these purposes:</p>
+                 
+                <p>Provide and operate the App and your account (login, restore, sync).</p>
+                <p>Generate weekly reports and quiz results.</p>
+                <p>Send emails (account notifications, weekly summaries, alerts).</p>
+                <p>Process account registration and monthly subscription payments.</p>
+                <p>Deliver product features (progress charts, reminders, school chat scheduling).</p>
+                <p>Provide customer support and respond to inquiries.</p>
+                <p>Fraud prevention and enforcing Terms & Conditions.</p>
+                <p>Improve service quality and debug technical issues.</p>
+            </dd>
+             
+
+            <dt>4. AI</dt>
+            <dd>
+                <p>The App uses AI (third-party) only to generate quizzes, Q&A content, and weekly report summaries. We do not send personal identifiers (name, email, phone) to AI. Only quiz content, non-identifying student answers and aggregated or anonymized data are sent where needed.</p>
+            </dd>
+             
+
+            <dt>5. Payments & fees</dt>
+            <dd>
+                <p>Registration fee: MK 2,000 (one-time).</p>
+                <p>Monthly subscription: MK 500.</p>
+                <p>If a user is unpaid for 2 months, the membership terminates and access is disabled until payment is restored.</p>
+                <p>Referral program: LinkedID is assigned upon activation. If a user shares their LinkedID and a friend registers, the referrer receives 25% of the registration fee immediately and 20% of monthly fees thereafter while the referred user remains active. Payments related to referrals are managed by the App’s payout procedures and may be subject to verification.</p>
+            </dd>
+             
+
+            <dt>6. Your choices & rights</dt>
+            <dd>
+                <p>Access & correction: You may request access to or correction of your account data by contacting us at the email above.</p>
+                <p>Deletion: You may request account deletion. We will remove personal identifiers and stop processing but may keep anonymized datasets.</p>
+                <p>To exercise rights, contact: isaacchitsakamire@gmail.com</p>
+            </dd>
+             
+
+            <dt>7. Minors & parental consent</dt>
+            <dd>
+                <p>MSCE G Studies Tracker is intended for MSCE students, many of whom may be minors. If you are under 18, parental consent is required. Parents must review and confirm the Parental Consent text during registration.</p>
+            </dd>
+             
+
+            <dt>8. Security</dt>
+            <dd>
+                <p>We use reasonable technical, administrative, and organizational measures to protect your data. However, no internet transmission or storage is 100% secure. We cannot guarantee absolute security. If a breach occurs, we will notify affected users and regulators as if possible.</p>
+            </dd>
+             
+
+            <dt>9. Changes to this policy</dt>
+            <dd>
+                <p>We may update this Privacy Policy. We will post changes in the App and include a “last updated” date. Material changes will be notified via email.</p>
+            </dd>
+             
+
+            <dt>10. Contact</dt>
+            <dd>
+                <p>Questions, requests, or complaints: isaacchitsakamire@gmail.com</p>
+            </dd>
+            <br>
+        </div>
+
+        <header><h1>2) Terms & Conditions</h1></header>
+        <div class="login-container">
+            <br>
+            <p>Last updated: December 1, 2025</p>
+            <p>App name: MSCE G Studies Tracker</p>
+            <p>Owner / Data Controller: Isaac Chitsakamire</p>
+            <p>Contact: isaacchitsakamire@gmail.com</p>
+            <br>
+        </div>
+        <div class="login-container">
+            <br>
+            <dt>1. Agreement</dt>
+            <dd>
+                <p>These Terms & Conditions form a legal agreement between you and us. By registering or using the App you agree to these Terms.</p>
+            </dd>
+             
+
+            <dt>2. Services</dt>
+            <dd>
+                <p>MSCE G Studies Tracker provides a study planning and tracking PWA, online sync via GAS, AI-assisted quizzes/reports, and communication features such as emails. The PWA is hosted on firebase; the backend uses GAS.</p>
+            </dd>
+             
+
+            <dt>3. Registration & accounts</dt>
+            <dd>
+                <p>You must provide accurate information at registration. Use a unique username and secure password.</p>
+                <p>You may use your email or your parent address in registration so that you/they may receive your weekly reports. This may help them to know  your study progress and way they can help you to performance very well MANEB exams.</p>
+                <p>Only one user may use each account. Sharing credentials is prohibited.</p>
+                <p>You are responsible for keeping your password safe and for all activity on your account.</p>
+            </dd>
+             
+
+            <dt>4. Fees, billing & refunds</dt>
+            <dd>
+                <p>Currently we use Airtel money and TNM Mpamba for payments. 
+                    > You send money to developer using these number: +265897953648/+265980617390.
+                    > Copy Transaction Message and paste on G Tracker App then only Message ID will be taken for payment processing.</p>
+                <P>Registration fee: MK 2,000 (one-time). Monthly fee: MK 500.</P>
+                <p>Refund policy: registration fee and monthly charges are generally non-refundable.</p>
+                <p>Non-payment: If a user has not paid monthly fees for two consecutive months, the membership will end and access will be suspended.</p>
+            </dd>
+             
+
+            <dt>5. Referral program</dt>
+            <dd>
+                <p>When you register and your account is activated, you receive a LinkedID.</p>
+                <p>If someone registers using your LinkedID, you receive 25% of their registration fee (one-time) and thereafter 20% of their monthly subscription while their account remains active.</p>
+                <p>Referral payments may be subject to verification and may be delayed until any fraudulent activity checks are complete.</p>
+                <p>We reserve the right to suspend referral payouts in case of fraud or abuse.</p>
+            </dd>
+             
+
+            <dt>6. Content & AI</dt>
+            <dd>
+                <p>The App uses AI to produce quizzes and weekly summaries. AI outputs are informational and may be imperfect. We are not liable for mistakes in AI-generated content.</p>
+                <p>Users agree not to submit private personal identifiers to AI prompts. We attempt to avoid sharing personal identifiers with third-party AI.</p>
+            </dd>
+             
+
+            <dt>7. School chat & scheduling rules</dt>
+            <dd>
+                <p>School chat feature is allowed only between 17:00 and 20:00 on school days and on weekends as configured in the App.</p>
+                <p>Abusive or illegal content in chat is prohibited and may result in account suspension.</p>
+                <p>As by it`s name 'school chat', chats must be related to school life.</p>
+            </dd>
+             
+
+            <dt>8. User obligations & permitted use</dt>
+            <dd>
+                <p>Provide truthful study data (hours, understanding notes). Results and recommendations depend on truthful input. Misleading or false information may reduce App effectiveness.</p>
+                <p>Use App lawfully and follow community guidelines. Do not attempt to access other users’ accounts or data.</p>
+            </dd>
+             
+
+            <dt>9. Termination</dt>
+            <dd>
+                <p>We may suspend or terminate accounts for breach of Terms, fraud, or illegal activity.</p>
+                <p>Termination for non-payment occurs after two months unpaid.</p>
+            </dd>
+             
+
+            <dt>10. Limitation of liability</dt>
+            <dd>
+                <p>The App is provided “as is”. We make reasonable efforts to operate the service but do not guarantee results (e.g., exam performance).</p>
+                <p>We are not liable for indirect, incidental, or consequential damages arising from your use of the App.</p>
+            </dd>
+             
+
+            <dt>11. Intellectual property</dt>
+            <dd>
+                <p>All App code, UI, logos, and content are owned by MSCE G Studies Tracker or licensed to us. You may not copy or redistribute without permission.</p>
+            </dd>
+             
+
+            <dt>12. Modifications</dt>
+            <dd>
+                <p>We may update the App and these Terms. Material changes will be notified by email or in-App notification.</p>
+            </dd>
+             
+
+            <dt>13. Contact</dt>
+            <dd>
+                <p>For support or legal requests: isaacchitsakamire@gmail.com</p>
+            </dd>
+            <br> 
+        </div>
+
+
+
+        <div>
+            <header><h1>3) Cookie & Offline Storage Notice:</h1></header>
+        </div>
+        <div class="login-container">
+            <br>
+            <p>Why we store data locally</p>
+            <p>MSCE G Studies Tracker is an offline-first PWA. To work without internet we store data locally on your device using browser storage (IndexedDB, localStorage). This allows you to:</p>
+            <p>Use the App offline</p>
+            <p>Save study sessions and reminders locally</p>
+            <p>Sync with GAS when online</p>
+            <p>Cookies / Analytics We may use small cookies or similar storage for session handling and non-identifying analytics to improve the app. You may clear local data or cookies from your browser, but doing so may delete unsynced study data.</p>
+            <p>Important: Always sync your data when you have internet to avoid data loss.</p>
+             <br>
+        </div>
+
+
+
+        <div>
+            <header><h1>4) Parental Consent Text </h1></header>
+        </div>
+
+        <div class="login-container">
+            <br>
+            <p>> Parental Consent Required:
+                MSCE G Studies Tracker is intended for students. Because your child is under 18, we need your permission to create and manage their account. The App will collect study history, quiz responses, and contact details. We will use GAS to sync data and  AI only for quiz and report generation — we do not share personal identifiers with third-party AI. Please confirm you accept the Privacy Policy and Terms & Conditions and consent to the use of the child’s data for the App’s functions.</p>
+            <p>> You may use your email address in registration so that you may receive weekly reports of your child. This may help to know his/her study progress and way you man help your child to performance very well MANEB exams.</p>
+            <br>
+        </div>
+            
+</div>
+</body>
+</html>
